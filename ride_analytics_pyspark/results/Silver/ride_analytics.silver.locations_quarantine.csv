@@ -1,0 +1,14 @@
+location_id,city,state,country,latitude,longitude,last_updated_timestamp,ingestion_timestamp,rejection_reason,rejection_timestamp
+null,null,Kerala,India,95,200,2025-07-30T17:00:00.000Z,2026-09-10T19:29:07.974Z,"location_id IS NULL, city IS NULL, latitude must be between -90 and 90, longitude must be between -180 and 180",2026-09-10T19:30:19.851Z
+null,Bhubaneswar,Odisha,India,20.3073,85.7865,2025-08-05T15:00:00.000Z,2026-09-10T19:29:07.974Z,location_id IS NULL,2026-09-10T19:30:19.851Z
+null,Cuttack,Odisha,India,20.4404,85.9019,2025-09-08T10:00:00.000Z,2026-09-10T19:29:07.974Z,location_id IS NULL,2026-09-10T19:30:19.851Z
+235,null,Maharashtra,India,18.5276,73.8192,2025-07-12T14:00:00.000Z,2026-09-10T19:29:07.974Z,city IS NULL,2026-09-10T19:30:19.851Z
+236,null,Maharashtra,India,19.0546,72.8859,2025-09-10T14:00:00.000Z,2026-09-10T19:29:07.974Z,city IS NULL,2026-09-10T19:30:19.851Z
+237,Bengaluru,Karnataka,India,95,77.6107,2025-08-23T15:00:00.000Z,2026-09-10T19:29:07.974Z,latitude must be between -90 and 90,2026-09-10T19:30:19.851Z
+238,Hyderabad,Telangana,India,-95,78.469,2025-07-01T13:00:00.000Z,2026-09-10T19:29:07.974Z,latitude must be between -90 and 90,2026-09-10T19:30:19.851Z
+239,Chennai,Tamil Nadu,India,13.0986,200,2025-07-20T14:00:00.000Z,2026-09-10T19:29:07.974Z,longitude must be between -180 and 180,2026-09-10T19:30:19.851Z
+240,Kolkata,West Bengal,India,22.6092,-200,2025-07-12T20:00:00.000Z,2026-09-10T19:29:07.974Z,longitude must be between -180 and 180,2026-09-10T19:30:19.851Z
+241,null,Delhi,India,95,77.2368,2025-09-16T16:00:00.000Z,2026-09-10T19:29:07.974Z,"city IS NULL, latitude must be between -90 and 90",2026-09-10T19:30:19.851Z
+242,Ahmedabad,Gujarat,India,95,200,2025-09-07T11:00:00.000Z,2026-09-10T19:29:07.974Z,"latitude must be between -90 and 90, longitude must be between -180 and 180",2026-09-10T19:30:19.851Z
+243,null,Rajasthan,India,26.9502,200,2025-09-09T17:00:00.000Z,2026-09-10T19:29:07.974Z,"city IS NULL, longitude must be between -180 and 180",2026-09-10T19:30:19.851Z
+244,null,Uttar Pradesh,India,95,200,2025-08-17T02:00:00.000Z,2026-09-10T19:29:07.974Z,"city IS NULL, latitude must be between -90 and 90, longitude must be between -180 and 180",2026-09-10T19:30:19.851Z

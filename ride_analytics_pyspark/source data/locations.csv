@@ -1,0 +1,251 @@
+location_id,city,state,country,latitude,longitude,last_updated_timestamp
+1.0,Bhubaneswar,Odisha,India,20.3073,85.7865,2025-08-05 15:00:00
+2.0,Cuttack,Odisha,India,20.4404,85.9019,2025-09-08 10:00:00
+3.0,Pune,Maharashtra,India,18.5276,73.8192,2025-07-12 14:00:00
+4.0,Mumbai,Maharashtra,India,19.0546,72.8859,2025-09-10 14:00:00
+5.0,Bengaluru,Karnataka,India,12.9889,77.6107,2025-08-23 15:00:00
+6.0,Hyderabad,Telangana,India,17.3809,78.469,2025-07-01 13:00:00
+7.0,Chennai,Tamil Nadu,India,13.0986,80.2579,2025-07-20 14:00:00
+8.0,Kolkata,West Bengal,India,22.6092,88.3508,2025-07-12 20:00:00
+9.0,Delhi,Delhi,India,28.5816,77.2368,2025-09-16 16:00:00
+10.0,Ahmedabad,Gujarat,India,23.0471,72.5898,2025-09-07 11:00:00
+11.0,Jaipur,Rajasthan,India,26.9502,75.7776,2025-09-09 17:00:00
+12.0,Lucknow,Uttar Pradesh,India,26.8731,80.9557,2025-08-17 02:00:00
+13.0,Kochi,Kerala,India,9.9066,76.2329,2025-07-30 17:00:00
+14.0,Indore,Madhya Pradesh,India,22.7584,75.8861,2025-07-13 20:00:00
+15.0,Guwahati,Assam,India,26.1267,91.7471,2025-08-16 13:00:00
+16.0,Bhubaneswar,Odisha,India,20.2857,85.8013,2025-08-05 04:00:00
+17.0,Cuttack,Odisha,India,20.4282,85.8938,2025-09-07 15:00:00
+18.0,Pune,Maharashtra,India,18.4935,73.8471,2025-09-10 15:00:00
+19.0,Mumbai,Maharashtra,India,19.0908,72.9051,2025-07-08 15:00:00
+20.0,Bengaluru,Karnataka,India,12.9973,77.619,2025-08-21 16:00:00
+21.0,Hyderabad,Telangana,India,17.3503,78.5198,2025-09-11 18:00:00
+22.0,Chennai,Tamil Nadu,India,13.0597,80.2706,2025-08-28 12:00:00
+23.0,Kolkata,West Bengal,India,22.5538,88.3436,2025-09-11 01:00:00
+24.0,Delhi,Delhi,India,28.5949,77.2158,2025-09-13 20:00:00
+25.0,Ahmedabad,Gujarat,India,23.0115,72.6112,2025-07-19 00:00:00
+26.0,Jaipur,Rajasthan,India,26.9119,75.8078,2025-07-15 12:00:00
+27.0,Lucknow,Uttar Pradesh,India,26.8569,80.9696,2025-08-25 03:00:00
+28.0,Kochi,Kerala,India,9.8963,76.2578,2025-08-30 00:00:00
+29.0,Indore,Madhya Pradesh,India,22.6997,75.862,2025-07-02 11:00:00
+30.0,Guwahati,Assam,India,26.159,91.7392,2025-08-05 04:00:00
+31.0,Bhubaneswar,Odisha,India,20.2833,85.808,2025-07-21 22:00:00
+32.0,Cuttack,Odisha,India,20.4228,85.9008,2025-08-04 00:00:00
+33.0,Pune,Maharashtra,India,18.5414,73.8573,2025-07-15 04:00:00
+34.0,Mumbai,Maharashtra,India,19.0599,72.8888,2025-09-16 14:00:00
+35.0,Bengaluru,Karnataka,India,12.9438,77.6156,2025-09-09 00:00:00
+36.0,Hyderabad,Telangana,India,17.4185,78.4946,2025-09-01 08:00:00
+37.0,Chennai,Tamil Nadu,India,13.0516,80.2597,2025-08-09 15:00:00
+38.0,Kolkata,West Bengal,India,22.5372,88.3941,2025-07-11 10:00:00
+39.0,Delhi,Delhi,India,28.6325,77.2343,2025-09-07 12:00:00
+40.0,Ahmedabad,Gujarat,India,22.9928,72.5694,2025-09-09 13:00:00
+41.0,Jaipur,Rajasthan,India,26.8936,75.8171,2025-08-24 14:00:00
+42.0,Lucknow,Uttar Pradesh,India,26.881,80.9666,2025-07-26 17:00:00
+43.0,Kochi,Kerala,India,9.9231,76.281,2025-08-17 22:00:00
+44.0,Indore,Madhya Pradesh,India,22.7516,75.8538,2025-08-01 15:00:00
+45.0,Guwahati,Assam,India,26.1096,91.6979,2025-09-09 15:00:00
+46.0,Bhubaneswar,Odisha,India,90.0,85.7851,2025-09-19 09:00:00
+47.0,Cuttack,Odisha,India,20.4408,-180.0,2025-08-12 10:00:00
+48.0,Pune,Maharashtra,Nepal,18.5215,73.839,2025-09-01 14:00:00
+49.0,Bhubaneswar,Maharashtra,India,19.0791,72.8956,2025-09-13 02:00:00
+50.0,Bengaluru,Karnataka,India,12.9694,77.6174,2025-08-22 14:00:00
+51.0,Bhubaneswar,Odisha,India,20.3073,85.7865,2025-08-05 15:00:00
+52.0,Cuttack,Odisha,India,20.4404,85.9019,2025-09-08 10:00:00
+53.0,Pune,Maharashtra,India,18.5276,73.8192,2025-07-12 14:00:00
+54.0,Mumbai,Maharashtra,India,19.0546,72.8859,2025-09-10 14:00:00
+55.0,Bengaluru,Karnataka,India,12.9889,77.6107,2025-08-23 15:00:00
+56.0,Hyderabad,Telangana,India,17.3809,78.469,2025-07-01 13:00:00
+57.0,Chennai,Tamil Nadu,India,13.0986,80.2579,2025-07-20 14:00:00
+58.0,Kolkata,West Bengal,India,22.6092,88.3508,2025-07-12 20:00:00
+59.0,Delhi,Delhi,India,28.5816,77.2368,2025-09-16 16:00:00
+60.0,Ahmedabad,Gujarat,India,23.0471,72.5898,2025-09-07 11:00:00
+61.0,Jaipur,Rajasthan,India,26.9502,75.7776,2025-09-09 17:00:00
+62.0,Lucknow,Uttar Pradesh,India,26.8731,80.9557,2025-08-17 02:00:00
+63.0,Kochi,Kerala,India,9.9066,76.2329,2025-07-30 17:00:00
+64.0,Indore,Madhya Pradesh,India,22.7584,75.8861,2025-07-13 20:00:00
+65.0,Guwahati,Assam,India,26.1267,91.7471,2025-08-16 13:00:00
+66.0,Bhubaneswar,Odisha,India,20.2857,85.8013,2025-08-05 04:00:00
+67.0,Cuttack,Odisha,India,20.4282,85.8938,2025-09-07 15:00:00
+68.0,Pune,Maharashtra,India,18.4935,73.8471,2025-09-10 15:00:00
+69.0,Mumbai,Maharashtra,India,19.0908,72.9051,2025-07-08 15:00:00
+70.0,Bengaluru,Karnataka,India,12.9973,77.619,2025-08-21 16:00:00
+71.0,Hyderabad,Telangana,India,17.3503,78.5198,2025-09-11 18:00:00
+72.0,Chennai,Tamil Nadu,India,13.0597,80.2706,2025-08-28 12:00:00
+73.0,Kolkata,West Bengal,India,22.5538,88.3436,2025-09-11 01:00:00
+74.0,Delhi,Delhi,India,28.5949,77.2158,2025-09-13 20:00:00
+75.0,Ahmedabad,Gujarat,India,23.0115,72.6112,2025-07-19 00:00:00
+76.0,Jaipur,Rajasthan,India,26.9119,75.8078,2025-07-15 12:00:00
+77.0,Lucknow,Uttar Pradesh,India,26.8569,80.9696,2025-08-25 03:00:00
+78.0,Kochi,Kerala,India,9.8963,76.2578,2025-08-30 00:00:00
+79.0,Indore,Madhya Pradesh,India,22.6997,75.862,2025-07-02 11:00:00
+80.0,Guwahati,Assam,India,26.159,91.7392,2025-08-05 04:00:00
+81.0,Bhubaneswar,Odisha,India,20.2833,85.808,2025-07-21 22:00:00
+82.0,Cuttack,Odisha,India,20.4228,85.9008,2025-08-04 00:00:00
+83.0,Pune,Maharashtra,India,18.5414,73.8573,2025-07-15 04:00:00
+84.0,Mumbai,Maharashtra,India,19.0599,72.8888,2025-09-16 14:00:00
+85.0,Bengaluru,Karnataka,India,12.9438,77.6156,2025-09-09 00:00:00
+86.0,Hyderabad,Telangana,India,17.4185,78.4946,2025-09-01 08:00:00
+87.0,Chennai,Tamil Nadu,India,13.0516,80.2597,2025-08-09 15:00:00
+88.0,Kolkata,West Bengal,India,22.5372,88.3941,2025-07-11 10:00:00
+89.0,Delhi,Delhi,India,28.6325,77.2343,2025-09-07 12:00:00
+90.0,Ahmedabad,Gujarat,India,22.9928,72.5694,2025-09-09 13:00:00
+91.0,Jaipur,Rajasthan,India,26.8936,75.8171,2025-08-24 14:00:00
+92.0,Lucknow,Uttar Pradesh,India,26.881,80.9666,2025-07-26 17:00:00
+93.0,Kochi,Kerala,India,9.9231,76.281,2025-08-17 22:00:00
+94.0,Indore,Madhya Pradesh,India,22.7516,75.8538,2025-08-01 15:00:00
+95.0,Guwahati,Assam,India,26.1096,91.6979,2025-09-09 15:00:00
+96.0,Bhubaneswar,Odisha,India,90.0,85.7851,2025-09-19 09:00:00
+97.0,Cuttack,Odisha,India,20.4408,-180.0,2025-08-12 10:00:00
+98.0,Pune,Maharashtra,Nepal,18.5215,73.839,2025-09-01 14:00:00
+99.0,Bhubaneswar,Maharashtra,India,19.0791,72.8956,2025-09-13 02:00:00
+100.0,Bengaluru,Karnataka,India,12.9694,77.6174,2025-08-22 14:00:00
+101.0,Bhubaneswar,Odisha,India,20.3073,85.7865,2025-08-05 15:00:00
+102.0,Cuttack,Odisha,India,20.4404,85.9019,2025-09-08 10:00:00
+103.0,Pune,Maharashtra,India,18.5276,73.8192,2025-07-12 14:00:00
+104.0,Mumbai,Maharashtra,India,19.0546,72.8859,2025-09-10 14:00:00
+105.0,Bengaluru,Karnataka,India,12.9889,77.6107,2025-08-23 15:00:00
+106.0,Hyderabad,Telangana,India,17.3809,78.469,2025-07-01 13:00:00
+107.0,Chennai,Tamil Nadu,India,13.0986,80.2579,2025-07-20 14:00:00
+108.0,Kolkata,West Bengal,India,22.6092,88.3508,2025-07-12 20:00:00
+109.0,Delhi,Delhi,India,28.5816,77.2368,2025-09-16 16:00:00
+110.0,Ahmedabad,Gujarat,India,23.0471,72.5898,2025-09-07 11:00:00
+111.0,Jaipur,Rajasthan,India,26.9502,75.7776,2025-09-09 17:00:00
+112.0,Lucknow,Uttar Pradesh,India,26.8731,80.9557,2025-08-17 02:00:00
+113.0,Kochi,Kerala,India,9.9066,76.2329,2025-07-30 17:00:00
+114.0,Indore,Madhya Pradesh,India,22.7584,75.8861,2025-07-13 20:00:00
+115.0,Guwahati,Assam,India,26.1267,91.7471,2025-08-16 13:00:00
+116.0,Bhubaneswar,Odisha,India,20.2857,85.8013,2025-08-05 04:00:00
+117.0,Cuttack,Odisha,India,20.4282,85.8938,2025-09-07 15:00:00
+118.0,Pune,Maharashtra,India,18.4935,73.8471,2025-09-10 15:00:00
+119.0,Mumbai,Maharashtra,India,19.0908,72.9051,2025-07-08 15:00:00
+120.0,Bengaluru,Karnataka,India,12.9973,77.619,2025-08-21 16:00:00
+121.0,Hyderabad,Telangana,India,17.3503,78.5198,2025-09-11 18:00:00
+122.0,Chennai,Tamil Nadu,India,13.0597,80.2706,2025-08-28 12:00:00
+123.0,Kolkata,West Bengal,India,22.5538,88.3436,2025-09-11 01:00:00
+124.0,Delhi,Delhi,India,28.5949,77.2158,2025-09-13 20:00:00
+125.0,Ahmedabad,Gujarat,India,23.0115,72.6112,2025-07-19 00:00:00
+126.0,Jaipur,Rajasthan,India,26.9119,75.8078,2025-07-15 12:00:00
+127.0,Lucknow,Uttar Pradesh,India,26.8569,80.9696,2025-08-25 03:00:00
+128.0,Kochi,Kerala,India,9.8963,76.2578,2025-08-30 00:00:00
+129.0,Indore,Madhya Pradesh,India,22.6997,75.862,2025-07-02 11:00:00
+130.0,Guwahati,Assam,India,26.159,91.7392,2025-08-05 04:00:00
+131.0,Bhubaneswar,Odisha,India,20.2833,85.808,2025-07-21 22:00:00
+132.0,Cuttack,Odisha,India,20.4228,85.9008,2025-08-04 00:00:00
+133.0,Pune,Maharashtra,India,18.5414,73.8573,2025-07-15 04:00:00
+134.0,Mumbai,Maharashtra,India,19.0599,72.8888,2025-09-16 14:00:00
+135.0,Bengaluru,Karnataka,India,12.9438,77.6156,2025-09-09 00:00:00
+136.0,Hyderabad,Telangana,India,17.4185,78.4946,2025-09-01 08:00:00
+137.0,Chennai,Tamil Nadu,India,13.0516,80.2597,2025-08-09 15:00:00
+138.0,Kolkata,West Bengal,India,22.5372,88.3941,2025-07-11 10:00:00
+139.0,Delhi,Delhi,India,28.6325,77.2343,2025-09-07 12:00:00
+140.0,Ahmedabad,Gujarat,India,22.9928,72.5694,2025-09-09 13:00:00
+141.0,Jaipur,Rajasthan,India,26.8936,75.8171,2025-08-24 14:00:00
+142.0,Lucknow,Uttar Pradesh,India,26.881,80.9666,2025-07-26 17:00:00
+143.0,Kochi,Kerala,India,9.9231,76.281,2025-08-17 22:00:00
+144.0,Indore,Madhya Pradesh,India,22.7516,75.8538,2025-08-01 15:00:00
+145.0,Guwahati,Assam,India,26.1096,91.6979,2025-09-09 15:00:00
+146.0,Bhubaneswar,Odisha,India,90.0,85.7851,2025-09-19 09:00:00
+147.0,Cuttack,Odisha,India,20.4408,-180.0,2025-08-12 10:00:00
+148.0,Pune,Maharashtra,Nepal,18.5215,73.839,2025-09-01 14:00:00
+149.0,Bhubaneswar,Maharashtra,India,19.0791,72.8956,2025-09-13 02:00:00
+150.0,Bengaluru,Karnataka,India,12.9694,77.6174,2025-08-22 14:00:00
+151.0,Bhubaneswar,Odisha,India,20.3073,85.7865,2025-08-05 15:00:00
+152.0,Cuttack,Odisha,India,20.4404,85.9019,2025-09-08 10:00:00
+153.0,Pune,Maharashtra,India,18.5276,73.8192,2025-07-12 14:00:00
+154.0,Mumbai,Maharashtra,India,19.0546,72.8859,2025-09-10 14:00:00
+155.0,Bengaluru,Karnataka,India,12.9889,77.6107,2025-08-23 15:00:00
+156.0,Hyderabad,Telangana,India,17.3809,78.469,2025-07-01 13:00:00
+157.0,Chennai,Tamil Nadu,India,13.0986,80.2579,2025-07-20 14:00:00
+158.0,Kolkata,West Bengal,India,22.6092,88.3508,2025-07-12 20:00:00
+159.0,Delhi,Delhi,India,28.5816,77.2368,2025-09-16 16:00:00
+160.0,Ahmedabad,Gujarat,India,23.0471,72.5898,2025-09-07 11:00:00
+161.0,Jaipur,Rajasthan,India,26.9502,75.7776,2025-09-09 17:00:00
+162.0,Lucknow,Uttar Pradesh,India,26.8731,80.9557,2025-08-17 02:00:00
+163.0,Kochi,Kerala,India,9.9066,76.2329,2025-07-30 17:00:00
+164.0,Indore,Madhya Pradesh,India,22.7584,75.8861,2025-07-13 20:00:00
+165.0,Guwahati,Assam,India,26.1267,91.7471,2025-08-16 13:00:00
+166.0,Bhubaneswar,Odisha,India,20.2857,85.8013,2025-08-05 04:00:00
+167.0,Cuttack,Odisha,India,20.4282,85.8938,2025-09-07 15:00:00
+168.0,Pune,Maharashtra,India,18.4935,73.8471,2025-09-10 15:00:00
+169.0,Mumbai,Maharashtra,India,19.0908,72.9051,2025-07-08 15:00:00
+170.0,Bengaluru,Karnataka,India,12.9973,77.619,2025-08-21 16:00:00
+171.0,Hyderabad,Telangana,India,17.3503,78.5198,2025-09-11 18:00:00
+172.0,Chennai,Tamil Nadu,India,13.0597,80.2706,2025-08-28 12:00:00
+173.0,Kolkata,West Bengal,India,22.5538,88.3436,2025-09-11 01:00:00
+174.0,Delhi,Delhi,India,28.5949,77.2158,2025-09-13 20:00:00
+175.0,Ahmedabad,Gujarat,India,23.0115,72.6112,2025-07-19 00:00:00
+176.0,Jaipur,Rajasthan,India,26.9119,75.8078,2025-07-15 12:00:00
+177.0,Lucknow,Uttar Pradesh,India,26.8569,80.9696,2025-08-25 03:00:00
+178.0,Kochi,Kerala,India,9.8963,76.2578,2025-08-30 00:00:00
+179.0,Indore,Madhya Pradesh,India,22.6997,75.862,2025-07-02 11:00:00
+180.0,Guwahati,Assam,India,26.159,91.7392,2025-08-05 04:00:00
+181.0,Bhubaneswar,Odisha,India,20.2833,85.808,2025-07-21 22:00:00
+182.0,Cuttack,Odisha,India,20.4228,85.9008,2025-08-04 00:00:00
+183.0,Pune,Maharashtra,India,18.5414,73.8573,2025-07-15 04:00:00
+184.0,Mumbai,Maharashtra,India,19.0599,72.8888,2025-09-16 14:00:00
+185.0,Bengaluru,Karnataka,India,12.9438,77.6156,2025-09-09 00:00:00
+186.0,Hyderabad,Telangana,India,17.4185,78.4946,2025-09-01 08:00:00
+187.0,Chennai,Tamil Nadu,India,13.0516,80.2597,2025-08-09 15:00:00
+188.0,Kolkata,West Bengal,India,22.5372,88.3941,2025-07-11 10:00:00
+189.0,Delhi,Delhi,India,28.6325,77.2343,2025-09-07 12:00:00
+190.0,Ahmedabad,Gujarat,India,22.9928,72.5694,2025-09-09 13:00:00
+191.0,Jaipur,Rajasthan,India,26.8936,75.8171,2025-08-24 14:00:00
+192.0,Lucknow,Uttar Pradesh,India,26.881,80.9666,2025-07-26 17:00:00
+193.0,Kochi,Kerala,India,9.9231,76.281,2025-08-17 22:00:00
+194.0,Indore,Madhya Pradesh,India,22.7516,75.8538,2025-08-01 15:00:00
+195.0,Guwahati,Assam,India,26.1096,91.6979,2025-09-09 15:00:00
+196.0,Bhubaneswar,Odisha,India,90.0,85.7851,2025-09-19 09:00:00
+197.0,Cuttack,Odisha,India,20.4408,-180.0,2025-08-12 10:00:00
+198.0,Pune,Maharashtra,Nepal,18.5215,73.839,2025-09-01 14:00:00
+199.0,Bhubaneswar,Maharashtra,India,19.0791,72.8956,2025-09-13 02:00:00
+200.0,Bengaluru,Karnataka,India,12.9694,77.6174,2025-08-22 14:00:00
+201.0,Bhubaneswar,Odisha,India,20.3073,85.7865,2025-08-05 15:00:00
+202.0,Cuttack,Odisha,India,20.4404,85.9019,2025-09-08 10:00:00
+203.0,Pune,Maharashtra,India,18.5276,73.8192,2025-07-12 14:00:00
+204.0,Mumbai,Maharashtra,India,19.0546,72.8859,2025-09-10 14:00:00
+205.0,Bengaluru,Karnataka,India,12.9889,77.6107,2025-08-23 15:00:00
+206.0,Hyderabad,Telangana,India,17.3809,78.469,2025-07-01 13:00:00
+207.0,Chennai,Tamil Nadu,India,13.0986,80.2579,2025-07-20 14:00:00
+208.0,Kolkata,West Bengal,India,22.6092,88.3508,2025-07-12 20:00:00
+209.0,Delhi,Delhi,India,28.5816,77.2368,2025-09-16 16:00:00
+210.0,Ahmedabad,Gujarat,India,23.0471,72.5898,2025-09-07 11:00:00
+211.0,Jaipur,Rajasthan,India,26.9502,75.7776,2025-09-09 17:00:00
+212.0,Lucknow,Uttar Pradesh,India,26.8731,80.9557,2025-08-17 02:00:00
+213.0,Kochi,Kerala,India,9.9066,76.2329,2025-07-30 17:00:00
+214.0,Indore,Madhya Pradesh,India,22.7584,75.8861,2025-07-13 20:00:00
+215.0,Guwahati,Assam,India,26.1267,91.7471,2025-08-16 13:00:00
+216.0,Bhubaneswar,Odisha,India,20.2857,85.8013,2025-08-05 04:00:00
+217.0,Cuttack,Odisha,India,20.4282,85.8938,2025-09-07 15:00:00
+218.0,Pune,Maharashtra,India,18.4935,73.8471,2025-09-10 15:00:00
+219.0,Mumbai,Maharashtra,India,19.0908,72.9051,2025-07-08 15:00:00
+220.0,Bengaluru,Karnataka,India,12.9973,77.619,2025-08-21 16:00:00
+221.0,Hyderabad,Telangana,India,17.3503,78.5198,2025-09-11 18:00:00
+222.0,Chennai,Tamil Nadu,India,13.0597,80.2706,2025-08-28 12:00:00
+223.0,Kolkata,West Bengal,India,22.5538,88.3436,2025-09-11 01:00:00
+224.0,Delhi,Delhi,India,28.5949,77.2158,2025-09-13 20:00:00
+225.0,Ahmedabad,Gujarat,India,23.0115,72.6112,2025-07-19 00:00:00
+226.0,Jaipur,Rajasthan,India,26.9119,75.8078,2025-07-15 12:00:00
+227.0,Lucknow,Uttar Pradesh,India,26.8569,80.9696,2025-08-25 03:00:00
+228.0,Kochi,Kerala,India,9.8963,76.2578,2025-08-30 00:00:00
+229.0,Indore,Madhya Pradesh,India,22.6997,75.862,2025-07-02 11:00:00
+230.0,Guwahati,Assam,India,26.159,91.7392,2025-08-05 04:00:00
+231.0,Bhubaneswar,Odisha,India,20.2833,85.808,2025-07-21 22:00:00
+232.0,Cuttack,Odisha,India,20.4228,85.9008,2025-08-04 00:00:00
+,Bhubaneswar,Odisha,India,20.3073,85.7865,2025-08-05 15:00:00
+,Cuttack,Odisha,India,20.4404,85.9019,2025-09-08 10:00:00
+235.0,,Maharashtra,India,18.5276,73.8192,2025-07-12 14:00:00
+236.0,,Maharashtra,India,19.0546,72.8859,2025-09-10 14:00:00
+237.0,Bengaluru,Karnataka,India,95.0,77.6107,2025-08-23 15:00:00
+238.0,Hyderabad,Telangana,India,-95.0,78.469,2025-07-01 13:00:00
+239.0,Chennai,Tamil Nadu,India,13.0986,200.0,2025-07-20 14:00:00
+240.0,Kolkata,West Bengal,India,22.6092,-200.0,2025-07-12 20:00:00
+241.0,,Delhi,India,95.0,77.2368,2025-09-16 16:00:00
+242.0,Ahmedabad,Gujarat,India,95.0,200.0,2025-09-07 11:00:00
+243.0,,Rajasthan,India,26.9502,200.0,2025-09-09 17:00:00
+244.0,,Uttar Pradesh,India,95.0,200.0,2025-08-17 02:00:00
+,,Kerala,India,95.0,200.0,2025-07-30 17:00:00
+1.0,Bhubaneswar,Odisha,India,20.3073,85.7865,2025-08-05 15:00:00
+2.0,Cuttack,Odisha,India,20.4404,85.9019,2025-09-08 10:00:00
+3.0,Pune,Maharashtra,India,18.5276,73.8192,2025-07-12 14:00:00
+4.0,Mumbai,Maharashtra,India,19.0546,72.8859,2025-09-10 14:00:00
+5.0,Bengaluru,Karnataka,India,12.9889,77.6107,2025-08-23 15:00:00

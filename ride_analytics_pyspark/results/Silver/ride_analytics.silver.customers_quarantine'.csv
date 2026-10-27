@@ -1,0 +1,8 @@
+customer_id,first_name,last_name,email,phone_number,city,signup_date,last_updated_timestamp,ingestion_timestamp,rejection_reason,rejection_timestamp
+null,Tanvi,Dutta,tanvi.dutta4.rep0@hotmail.com,+91-8811967841-ABC-ABC,Pune,2024-06-21,2025-08-05T22:00:00.000Z,2026-09-10T19:28:59.980Z,customer_id IS NULL,2026-09-10T19:29:51.177Z
+null,Manish,Mishra,badall@x,+91-9806569933,Jaipur,2024-02-29,2025-08-03T20:00:00.000Z,2026-09-10T19:28:59.980Z,"customer_id IS NULL, invalid Email format",2026-09-10T19:29:51.177Z
+null,Rohan,Mohanty,rohan.mohanty1.rep0@gmail.com,+91-8851350739,Jaipur,2023-07-07,2025-08-24T21:00:00.000Z,2026-09-10T19:28:59.980Z,customer_id IS NULL,2026-09-10T19:29:51.177Z
+null,Meera,Rout,meera.rout3.rep0@outlook.com,+91-7469306919-,Kochi,2024-02-08,2025-07-25T14:00:00.000Z,2026-09-10T19:28:59.980Z,customer_id IS NULL,2026-09-10T19:29:51.177Z
+null,Neha,Das,neha.das2.rep0@yahoo.com,null,Jaipur,2021-11-16,2025-07-13T09:00:00.000Z,2026-09-10T19:28:59.980Z,"customer_id IS NULL, phone_number IS NULL",2026-09-10T19:29:51.177Z
+null,Rahul,Reddy,badcombo1@x,null,Mumbai,2022-03-02,2025-07-07T03:00:00.000Z,2026-09-10T19:28:59.980Z,"customer_id IS NULL, invalid Email format, phone_number IS NULL",2026-09-10T19:29:51.177Z
+984,Kabir,Pradhan,badcombo2@x,+91-8811967842,Jaipur,2022-05-01,2025-09-05T18:00:00.000Z,2026-09-10T19:28:59.980Z,invalid Email format,2026-09-10T19:29:51.177Z
