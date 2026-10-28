@@ -1,0 +1,15 @@
+{
+	"name": "df-deepak-azureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "de8a6969-7ad9-49ce-bb84-9f7ee661cfghjk3ca4",
+		"tenantId": "d499923f-5a24-4c98-a37f-6b67819tuuiuc6750f"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"name": "azure_sql",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"server": "azureprojectserver.database.windows.net",
+			"database": "azureprojectdbdeepak",
+			"encrypt": "mandatory",
+			"trustServerCertificate": false,
+			"authenticationType": "SQL",
+			"userName": "<SQL_USERNAME>",
+			"encryptedCredential": "<Encrypted Value>"
+		}
+	}
+}
